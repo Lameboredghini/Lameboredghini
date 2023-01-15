@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Divyam Yadav but you can call me "never"
+### Hi there 👋, I'm Divyam Yadav
 
 <a href="https://twitter.com/divyamydv">
   <img align="left" alt="Divyam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
