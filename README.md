@@ -21,7 +21,6 @@
 
 ## Selfmused philomath !!
 
-- 🔭 I’m currently working on [Synergee](https://thesynergee.herokuapp.com/).
 - 🌱 I’m currently learning more about web development.
 - 💬 Ask me about new things.
 - 📫 How to reach me: [Twitter - @Divyamydv](https://twitter.com/divyamydv) , [Instagram - @itsdivyamyadav](https://instagram.com/itsdivyamyadav/)
