@@ -21,7 +21,7 @@
 
 ## Selfmused philomath !!
 
-- 🌱 I’m currently learning more about web development.
+- 🌱 I’m currently learning more about software development.
 - 💬 Ask me about new things.
 - 📫 How to reach me: [Twitter - @Divyamydv](https://twitter.com/divyamydv) , [Instagram - @itsdivyamyadav](https://instagram.com/itsdivyamyadav/)
 - ⚡ Fun fact: Life is Beautiful 
